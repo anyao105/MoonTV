@@ -86,7 +86,7 @@
       "name": "小猫咪资源"
     }
   }
-  "custom_category": {
+  "custom_category": [
     {
       "name": "华语",
       "type": "movie",
@@ -127,5 +127,5 @@
       "type": "movie",
       "query": "喜剧"
     }
-  }   
+  ]   
 }
